@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<times>
+	<episode day="Monday" time="7:30 AM" description="some crazy show description"></episode>
+	<episode day="Monday" time="3:30 PM" description="some crazy show description"></episode>
+	<episode day="Monday" time="6:30 PM" description="some crazy show description"></episode>
+	<episode day="Monday" time="7:00 PM" description="some crazy show description"></episode>
+	<episode day="Tuesday" time="7:30 AM" description="some crazy show description"></episode>
+	<episode day="Tuesday" time="3:30 PM" description="some crazy show description"></episode>
+	<episode day="Wednesday" time="7:30 AM" description="some crazy show description"></episode>
+	<episode day="Wednesday" time="3:30 PM" description="some crazy show description"></episode>
+	<episode day="Thursday" time="7:30 AM" description="some crazy show description"></episode>
+	<episode day="Thursday" time="3:30 PM" description="some crazy show description"></episode>
+	<episode day="Friday" time="7:30 AM" description="some crazy show description"></episode>
+	<episode day="Friday" time="3:30 PM" description="some crazy show description"></episode>
+	<episode day="Saturday" time="10:00 AM" description="some crazy show description"></episode>
+	<episode day="Saturday" time="6:30 PM" description="some crazy show description"></episode>
+	<episode day="Saturday" time="7:00 PM" description="some crazy show description"></episode>
+	<episode day="Sunday" time="10:00 AM" description="some crazy show description"></episode>
+</times>
